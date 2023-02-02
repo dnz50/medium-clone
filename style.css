@@ -1,0 +1,38 @@
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font:bold;
+    
+
+}
+nav{
+    background-color:#FFC017;
+}
+
+.aside{
+    position: sticky !important;
+}
+.display-1{
+    font-size: 7vw !important;
+}
+.yaz{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+}
+
+.resim{
+    width: 500px;
+    height: 300px;
+    object-fit: fill;
+}
+i img{ 
+    width: 25px;
+    height: 25px;
+    object-fit: fill;
+}
+.text-black-50{
+    font-size: 25px;
+}
+.but li{
+    margin-bottom: 10px;
+}
