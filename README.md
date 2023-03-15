@@ -6,10 +6,12 @@
 
  HTML CSS3 Bootstrap
 
+ Javascript
+
  Responsive Page
 
  
 
  ## WEB-PAGE-GIF
 
-![Alt text](ekran.gif)
+![Alt text](images/ekran.gif)

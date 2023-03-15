@@ -5,10 +5,25 @@ h1{
     
 
 }
-nav{
+.navbar{
+    position: sticky;
     background-color:#FFC017;
+    top: 0;
+  right: 0;
+  left: 0;
+  transition: all 0.5s ease-in-out;
 }
+.navbar.move {
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    
+  }
 
+.navbar img{
+    mix-blend-mode: darken;
+    width: 100px;
+    height: 40px;
+}
 .aside{
     position: sticky !important;
 }
